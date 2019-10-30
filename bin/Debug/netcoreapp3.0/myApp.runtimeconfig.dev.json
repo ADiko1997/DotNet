@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/diko/.dotnet/store/|arch|/|tfm|",
+      "/home/diko/.nuget/packages"
+    ]
+  }
+}

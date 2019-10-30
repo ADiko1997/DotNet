@@ -1,0 +1,11 @@
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/home/diko/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/home/diko/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/home/diko/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/home/diko/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/home/diko/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/home/diko/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
